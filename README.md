@@ -1,7 +1,6 @@
 ### Hi there, This is Chaitanya👋
-### A passionate Cyber Security Enthusiast
+#### A passionate Cyber Security Enthusiast
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web penetration testing
 - 🌱 I’m currently learning ... Website Hacking & Bug Bounty
