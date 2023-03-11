@@ -10,4 +10,6 @@
 - 😄 Pronouns: ... Eagle 
 - ⚡ Fun fact: ...
 -->
-### Connect With Me
+### Connect with me:
+https://instagram.com/chaithu_7x?igshid=ZDdkNTZiNTM=
+https://www.linkedin.com/in/chaitanya-kumar-846550226
