@@ -11,7 +11,7 @@
   
 
 ### Connect with me:
+<br>
 
-
-
+[![LinkedIn](https://github.com/Chaithu7x/Chaithu7x/blob/main/icons/icons8-linkedin.svg)](https://www.linkedin.com/in/saddala-chaitanya-kumar)
 
