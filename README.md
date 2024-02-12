@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning ... Website Hacking & Bug Hunting
 - 👯 I’m looking to collaborate on ... any Open source projects or Internships 
 - 💬 Ask me about ... Cyber Security and Ethical Hacking
-- 📫 How to reach me: ... LinkedIN:- https://www.linkedin.com/in/chaitanya-kumar-846550226
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... LinkedIn:- https://www.linkedin.com/in/saddala-chaitanya-kumar
+- ⚡ Fun fact: ...  There is a cyber attack every 39 seconds somewhere in the world
+  
+
 ### Connect with me:
+
+
+
 
